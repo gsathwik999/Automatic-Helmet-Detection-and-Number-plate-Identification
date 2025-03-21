@@ -60,7 +60,7 @@ Feel free to **fork**, submit issues, or make pull requests! Any contributions t
 ## 📞 Contact
 For queries or collaborations, contact:
 - **Authors**: Jaswanth Kondeti & Geddam Sathwik
-- **Email**: jaswanthkondeti03@gmail.com
+- **Email**: jaswanthkondeti03@gmail.com<br>
              geddmasathwik@gmail.com
 - **GitHub**: https://github.com/jaswanthkondeti
 
