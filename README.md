@@ -61,7 +61,7 @@ Feel free to **fork**, submit issues, or make pull requests! Any contributions t
 For queries or collaborations, contact:
 - **Author**: Jaswanth Kondeti
 - **Email**: jaswanthkondeti03@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/jaswanthkondeti)
+- **GitHub**: https://github.com/jaswanthkondeti
 
 ---
 🚀 **Let's make roads safer with AI-powered automation!**
