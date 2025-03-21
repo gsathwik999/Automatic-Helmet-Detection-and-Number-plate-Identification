@@ -61,8 +61,8 @@ Feel free to **fork**, submit issues, or make pull requests! Any contributions t
 For queries or collaborations, contact:
 - **Authors**: Jaswanth Kondeti & Geddam Sathwik
 - **Email**: jaswanthkondeti03@gmail.com<br>
-             geddmasathwik@gmail.com
-- **GitHub**: https://github.com/jaswanthkondeti
+                geddmasathwik@gmail.com
+- **GitHub**: https://github.com/gsathwik999
 
 ---
 🚀 **Let's make roads safer with AI-powered automation!**
